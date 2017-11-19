@@ -208,7 +208,7 @@ public class PeriodicTable extends javax.swing.JFrame {
         jLabel14.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         jLabel15.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel15.setText("<html><div style='text-align: center;'>1<br>H</div></html>");
+        jLabel15.setText("<html><div style='text-align: center;'>...<br>L</div></html>");
         jLabel15.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         jLabel16.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -324,7 +324,7 @@ public class PeriodicTable extends javax.swing.JFrame {
         jLabel43.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         jLabel44.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel44.setText("<html><div style='text-align: center;'>1<br>H</div></html>");
+        jLabel44.setText("<html><div style='text-align: center;'>...<br>A</div></html>");
         jLabel44.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         jLabel45.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
